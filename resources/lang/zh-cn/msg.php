@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'login_fail' => '帐号或密码错误',
+    'auth_fail' => '验证未通过',
+    'need_params' => '必填参数错误',
+    'params_null_or_limit_string' => '必填参数为空或字串长度超出',
+    're_password_error' => '重复密码错误',
+    'account_isset' => '帐号已存在',
+    'id_cant_delete' => '此帐号无法删除',
+    'locked' => '此帐号已被锁定',
+    'permission_fail' => '无此权限',
+    'need_store_agent' => '需要选择商户代理',
+    'store_agent_disabled' => '商户代理异常',
+    'store_agent_cant_delete' => '此商户代理无法删除',
+    'system_error' => '系统错误',
+    'admin_user_edit' => '帐号编辑',
+    'admin_users_add' => '帐号新增',
+    'admin_users_delete' => '帐号删除',
+    'admin_users_login' => '帐号登入',
+    'not_json_array' => '非JSON阵列',
+    'permission_code_error' => '权限code异常',
+    'group_cant_delete' => '群组无法删除, 有正常帐号在使用',
+    'group_cant_use' => '群组无法使用或不存在',
+    'not_found'      => '找不到对应资料',
+];

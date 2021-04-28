@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'login_fail' => 'login fail',
+    'auth_fail' => 'auth fail',
+    'need_params' => 'need params error',
+    'params_null_or_limit_string' => 'need params error',
+    're_password_error' => 're password error',
+    'account_isset' => 'account isset',
+    'id_cant_delete' => 'this account cant delete',
+    'locked' => 'account locked',
+    'permission_fail' => 'permission fail',
+    'need_store_agent' => 'need_store_agent',
+    'store_agent_disabled' => 'store_agent_disabled',
+    'store_agent_cant_delete' => 'store_agent_cant_delete',
+    'system_error' => 'sysetm_error',
+    'admin_user_edit' => 'admin_user_edit',
+    'admin_users_add' => 'admin_users_add',
+    'admin_users_delete' => 'admin_users_delete',
+    'admin_users_login' => 'admin_users_login',
+    'not_json_array' => 'not_json_array',
+    'permission_code_error' => 'permission_code_error',
+    'group_cant_delete' => 'group_cant_delete',
+    'group_cant_use' => 'group_cant_use',
+    'not_found'      => 'data not found',
+];
